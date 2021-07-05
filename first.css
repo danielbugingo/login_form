@@ -42,6 +42,7 @@ input{
 .belowform{
     color: #385061;
     font-weight: 400;
+    justify-content: center;
 }
 
 a p{
