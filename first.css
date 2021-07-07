@@ -1,4 +1,4 @@
-body{ color: black; height: 100vh;}
+body{ color: black; }
 
 .btn-outline-danger{
     color: #0b1c2c;
@@ -59,11 +59,21 @@ a:link{
     display: block;
     position: absolute;
     max-height: 70%vmax;
+    max-width: 400px;
 }
 
 svg{
+    max-width: 400px;
+    background-color: #0b1c2c;
     display: block;
     position: relative;
-    background-color: palevioletreds;
-    height: auto;
+    max-height: auto;
+    float: none;
+}
+
+.cls-1{
+    
+    max-width: 40px;
+    background-color: #0b1c2c;
+    border-color: brown;
 }

@@ -1,0 +1,12 @@
+git config --global user.name "bugingo"
+git config --global user.email danielbugingo1@gmail.com
+
+https://www.youtube.com/watch?v=oYRda7UtuhA
+https://www.youtube.com/watch?v=S9PpWeN-MrU
+https://www.youtube.com/watch?v=03Pvl2ecetA
+https://www.youtube.com/watch?v=zVR1WBGWVT8
+https://www.youtube.com/watch?v=-DNLYk5uzl8
+https://www.youtube.com/watch?v=zVR1WBGWVT8
+https://www.youtube.com/watch?v=O7WbVj5apxU
+https://www.youtube.com/watch?v=RhUuMl3R1PE
+https://www.youtube.com/watch?v=keJn4LSNuHk
