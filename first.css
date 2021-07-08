@@ -43,6 +43,11 @@ input{
     color: #385061;
     font-weight: 400;
     justify-content: center;
+    
+}
+
+#b-form-2{
+    margin-bottom: 50px;
 }
 
 a p{
@@ -55,25 +60,20 @@ a:link{
 }
 
 #bgform{
+    margin: 40px;
     background-color: #0b1c2c;
-    display: block;
-    position: absolute;
-    max-height: 70%vmax;
+    /* display: block; */
+    position: relative;
+    max-height: 80%vmax;
     max-width: 400px;
+    
 }
 
 svg{
-    max-width: 400px;
-    background-color: #0b1c2c;
-    display: block;
-    position: relative;
-    max-height: auto;
-    float: none;
-}
-
-.cls-1{
-    
-    max-width: 40px;
-    background-color: #0b1c2c;
-    border-color: brown;
+    margin-top: 10px;
+    max-width: auto;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
 }
