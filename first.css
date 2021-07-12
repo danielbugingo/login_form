@@ -1,4 +1,9 @@
-body{ color: black; background-image: url(../FRONT-END_INTRO/images/bubble-background.jpg);}
+body{
+    color: black;
+    background-image: url(../FRONT-END_INTRO/images/bubble-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 .btn-outline-danger{
     color: #0b1c2c;
